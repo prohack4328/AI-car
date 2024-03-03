@@ -13,6 +13,7 @@ This project will allow a robotic car to work in corporation with the AI in the 
 - Burn SD car image to start Ubuntu
 - Install Jetson Nano
 - Install OpenCV for image processing
+- Install gyropalm-control libaray and tested Python code
 
 ## Team
 
